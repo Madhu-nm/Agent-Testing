@@ -1,0 +1,6 @@
+python-dotenv
+requests
+PyGithub
+langgraph
+langchain
+openai
